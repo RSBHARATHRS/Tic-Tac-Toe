@@ -26,7 +26,7 @@ public class Main {
 
     }//___End of Main method
 
-    //_______________________________________________ Method isWon ___________________________________________________//
+    //___________________________________________________ Method isWon _______________________________________________//
     public static boolean isWon(char playerSymbol) {
         int total = playerSymbol == 'X' ? 264 : 237;
 
